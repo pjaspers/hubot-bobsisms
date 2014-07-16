@@ -1,5 +1,5 @@
 {
-  "name": "hubot-bobsism",
+  "name": "hubot-bobsisms",
   "version": "1.0.1",
   "description": "A hubot script to help us understand @bobvlanduyt.",
   "main": "index.coffee",
